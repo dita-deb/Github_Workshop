@@ -8,3 +8,13 @@
 # Big Header
 ## Subheader
 ### tiny header
+
+## Inside Terminal (PUBLISHING TO PERSONAL ACCOUNT)
+git remote -v
+
+origin <url of github profile>
+
+git add .
+git commit "Message"
+git push origin main
+
